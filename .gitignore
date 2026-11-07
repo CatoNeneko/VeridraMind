@@ -1,0 +1,17 @@
+__pycache__/
+*.py[oc]
+.venv/
+.idea/
+.env
+.env.*
+*.pth
+*.pt
+*.safetensors
+/out/
+/checkpoints/
+/old pth/
+/dataset/*.jsonl
+/dataset/arithmetic/filtered*.jsonl
+build/
+dist/
+*.egg-info/
